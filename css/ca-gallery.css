@@ -128,8 +128,8 @@ body {
         margin-right: 30vw;
     }
     .offcanvas-aside {
-        width: 30vw;
-        right: -30vw;
+        width: 40vw;
+        right: -40vw;
     }
 }
 .offcanvas-aside-open {
